@@ -1,0 +1,6 @@
+# /home/augustineonuora/Dapps-Empty/2026/Nov2026/zerotracker-driver/.easignore
+node_modules/
+.expo/
+.git/
+android/
+ios/

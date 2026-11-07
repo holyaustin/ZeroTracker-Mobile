@@ -1,0 +1,10 @@
+node_modules
+.expo
+dist
+*.apk
+*.aab
+ios
+android
+.env.local
+.env
+credentials.json
